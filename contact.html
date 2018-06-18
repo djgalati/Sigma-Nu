@@ -121,12 +121,12 @@
 						
 						<!-- Contact Us Form -->
 						<div class="contact_form_container">
-							<form id="gform" action="https://script.google.com/macros/s/AKfycbwfGQhDWFnHcxo91BsNltgDYhte_-QT6txuCkke/exec">
+							<form id="gform" method="POST" data-email="alumni@nausigmanu.com" action="https://script.google.com/macros/s/AKfycbwfGQhDWFnHcxo91BsNltgDYhte_-QT6txuCkke/exec">
 								<div>
-									<input id="contact_form_name" class="input_field contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required.">
-									<input id="contact_form_email" class="input_field contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
-									<input id="contact_form_subject" class="input_field contact_form_subject" type="text" placeholder="Subject" required="required" data-error="Subject is required.">
-									<textarea id="contact_form_message" class="text_field contact_form_message" name="message"  placeholder="Message" rows="4" required data-error="Please, write us a message."></textarea>
+									name: <input id="contact_form_name" class="input_field contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required.">
+									email: <input id="contact_form_email" class="input_field contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
+									subject: <input id="contact_form_subject" class="input_field contact_form_subject" type="text" placeholder="Subject" required="required" data-error="Subject is required.">
+									message: <textarea id="contact_form_message" class="text_field contact_form_message" name="message"  placeholder="Message" rows="4" required data-error="Please, write us a message."></textarea>
 								</div>
 								<div>
 									<button id="contact_form_submit" type="submit" class="contact_submit_btn trans_300" value="Submit">
