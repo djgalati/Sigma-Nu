@@ -48,8 +48,8 @@
 	.main_slider_nav_right
 	{
 		top: auto;
-		left: auto;
-		right: 39px;
+		left: 70;
+		right: auto;
 		bottom: 14px;
 		-webkit-transform: transform: none;
 		-moz-transform: transform: none;
