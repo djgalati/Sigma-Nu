@@ -736,7 +736,7 @@ section
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 42%;
 	background-position: center center;
 }
 .services_page_shapes
