@@ -354,7 +354,7 @@ section
 }
 .logo
 {
-	margin-left: 5px;
+	margin-left: 7px;
 }
 .logo a
 {
@@ -405,7 +405,7 @@ section
 	text-transform: uppercase;
 	color: #0b1033;
 	letter-spacing: 3.5px;
-	height: 100%;
+	height: 110%;
 	display: -webkit-box;
 	display: -moz-box;
 	display: -ms-flexbox;
