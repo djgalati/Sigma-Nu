@@ -350,11 +350,11 @@ section
 
 .logo_container
 {
-	flex-basis: 10.2%;
+	flex-basis: 10%;
 }
 .logo
 {
-	margin-left: 7px;
+	margin-left: 5px;
 }
 .logo a
 {
