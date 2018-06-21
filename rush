@@ -37,12 +37,12 @@
           <div style="float:right;">
           <nav class="main_nav justify-self-end">
             <ul class="nav_items">
-              <li><a href="index.html"><span>home</span></a></li>
+              <li><a href="index"><span>home</span></a></li>
               <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span>About us</span></a></li>
               <li class="active"><a href="#"><span>Recruitment</span></a></li>
-              <li><a href="alumni.html"><span>Alumni</span></a></li>
-              <li><a href="pictures.html"><span>Gallery</span></a></li>
-              <li><a href="comment.html"><span>Comments?</span></a></li>
+              <li><a href="alumni"><span>Alumni</span></a></li>
+              <li><a href="pictures"><span>Gallery</span></a></li>
+              <li><a href="comment"><span>Comments?</span></a></li>
               <li><a href="contact.htnl"><span>Contact</span></a></li>
             </ul>
           </nav>
@@ -59,13 +59,13 @@
         <div class="fs_menu_shapes"><img src="images/menu_shapes.png" alt=""></div>
         <nav class="fs_menu_nav">
           <ul class="fs_menu_list">
-            <li><a href="index.html"><span><span>H</span>Home</span></a></li>
+            <li><a href="index"><span><span>H</span>Home</span></a></li>
             <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span><span>A</span>About us</span></a></li>
 		  <li class="active"><a href="#"><span><span>R</span>Recruitment</span></a></li>
-            <li><a href="alumni.html"><span><span>A</span>Alumni</span></a></li>
-            <li><a href="pictures.html"><span><span>G</span>Gallery</span></a></li>
-            <li><a href="comment.html"><span><span>C</span>Comments?</span></a></li>
-            <li><a href="contact.html"><span><span>C</span>Contact</span></a></li>
+            <li><a href="alumni"><span><span>A</span>Alumni</span></a></li>
+            <li><a href="pictures"><span><span>G</span>Gallery</span></a></li>
+            <li><a href="comment"><span><span>C</span>Comments?</span></a></li>
+            <li><a href="contact"><span><span>C</span>Contact</span></a></li>
           </ul>
         </nav
         <div class="fs_social_container d-flex flex-row justify-content-end align-items-center">
@@ -116,7 +116,7 @@
 						
 						<!-- Contact Us Form -->
 						<div class="contact_form_container">
-							<form id="gform" method="POST" data-email="recruitment@nausigmanu.com" action="https://script.google.com/macros/s/AKfycbwfGQhDWFnHcxo91BsNltgDYhte_-QT6txuCkke/exec" target="nausigmanu.com/index.html">
+							<form id="gform" method="POST" data-email="recruitment@nausigmanu.com" action="https://script.google.com/macros/s/AKfycbwfGQhDWFnHcxo91BsNltgDYhte_-QT6txuCkke/exec" target="nausigmanu.com/index">
 	
 								<div>
 									<input id="contact_form_name" class="input_field contact_form_name" name="name" type="text" placeholder="Name" required="required" data-error="Name is required.">
