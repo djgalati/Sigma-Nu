@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Sigma Nu - Contact</title>
+<title>Sigma Nu-Contact</title>
 <base target="_top">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +29,7 @@
 		<!-- Logo -->
 		<div class="logo_container mr-auto">
           <div class="logo">
-          <a href="http://www.sigmanu.org"><span style="color: gold;">S</span>Sigma Nu</a>
+          <a href="http://www.sigmanu.org"><span>S</span>Sigma Nu</a>
           <a href="#"> Eta Iota</a>
           </div>
           </div>
