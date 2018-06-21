@@ -29,7 +29,7 @@
 		<!-- Logo -->
 		<div class="logo_container mr-auto">
           <div class="logo">
-          <a href="http://www.sigmanu.org"><span style="color: gold;">S</span>Sigma Nu</a>
+          <a href="http://www.sigmanu.org"><span>S</span>Sigma Nu</a>
           <a href="#"> Eta Iota</a>
           </div>
           </div>
@@ -63,7 +63,7 @@
             <li><a href="alumni"><span><span>A</span>Alumni</span></a></li>
             <li><a href="pictures"><span><span>G</span>Gallery</span></a></li>
             <li class="active"><a href="#"><span><span>C</span>Comments?</span></a></li>
-            <li>><a href="contact"><span><span>C</span>Contact</span></a></li>
+            <li><a href="contact"><span><span>C</span>Contact</span></a></li>
           </ul>
         </nav>
         <div class="fs_social_container d-flex flex-row justify-content-end align-items-center">
