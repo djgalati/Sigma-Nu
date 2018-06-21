@@ -126,7 +126,7 @@ p a:hover::after
 ::selection
 {
 	background: #fde0db;
-	color: #ff4200;
+	color: gold;
 }
 p::selection
 {
@@ -265,7 +265,7 @@ section
 {
 	width: 187px;
 	height: 66px;
-	background: #ff4200;
+	background: gold;
 	overflow: hidden;
 }
 .button a
@@ -818,7 +818,7 @@ section
 	right: 0px;
 	width: auto;
 	height: 74px;
-	background: #ff4200;
+	background: gold;
 	z-index: 11;
 	padding-right: 38px;
 	padding-left: 45px;
