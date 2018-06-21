@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Sigma Nu - Comment</title>
+<title>Sigma Nu-Comment</title>
 <base target="_top">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -39,7 +39,8 @@
             <ul class="nav_items">
               <li><a href="index"><span>home</span></a></li>
               <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span>About us</span></a></li>
-              <li><a href="alumni"><span>Alumni</span></a></li>
+              <li><a href="rush"><span>Recruitment</span></a></li>
+	      <li><a href="alumni"><span>Alumni</span></a></li>
               <li><a href="pictures"><span>Gallery</span></a></li>
               <li class="active"><a href="#"><span>Comments?</span></a></li>
               <li><a href="contact"><span>Contact</span></a></li>
@@ -60,7 +61,8 @@
           <ul class="fs_menu_list">
             <li><a href="index"><span><span>H</span>Home</span></a></li>
             <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span><span>A</span>About us</span></a></li>
-            <li><a href="alumni"><span><span>A</span>Alumni</span></a></li>
+            <li><a href="rush"><span><span>R</span>Recruitment</span></a></li>
+	    <li><a href="alumni"><span><span>A</span>Alumni</span></a></li>
             <li><a href="pictures"><span><span>G</span>Gallery</span></a></li>
             <li class="active"><a href="#"><span><span>C</span>Comments?</span></a></li>
             <li><a href="contact"><span><span>C</span>Contact</span></a></li>
