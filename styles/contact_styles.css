@@ -3,6 +3,9 @@
 
 /******************************
 
+<!--!!!!!!!!!!!!!!!!-->
+<!--#AA9B70 is all accent colors-->
+
 
 [Table of Contents]
 
@@ -82,7 +85,7 @@ p a
 	display: inline;
 	position: relative;
 	color: inherit;
-	border-bottom: solid 1px gold;
+	border-bottom: solid 1px #AA9B70;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -99,12 +102,12 @@ a, a:hover, a:visited, a:active, a:link
 p a:active
 {
 	position: relative;
-	color: gold;
+	color: #AA9B70;
 }
 p a:hover
 {
 	color: #FFFFFF;
-	background: gold;
+	background: #AA9B70;
 }
 p a:hover::after
 {
@@ -113,11 +116,11 @@ p a:hover::after
 ::selection
 {
 	background: #fde0db;
-	color: gold;
+	color: #AA9B70;
 }
 p::selection
 {
-	background: gold;
+	background: #AA9B70;
 }
 h1{font-size: 48px;}
 h2{font-size: 30px;}
@@ -142,7 +145,7 @@ h6::selection
 }
 .form-control
 {
-	color: gold;
+	color: #AA9B70;
 }
 section
 {
@@ -222,7 +225,7 @@ section
 {
 	width: 187px;
 	height: 66px;
-	background: gold;
+	background: #AA9B70;
 	overflow: hidden;
 }
 .line_button
@@ -335,12 +338,12 @@ section
 	position: absolute;
 	top: 0;
 	left: -5px;
-	color: gold;
+	color: #AA9B70;
 	z-index: -1;
 }
 .logo span:last-of-type
 {
-	color: gold;
+	color: #AA9B70;
 }
 
 /*********************************
@@ -385,7 +388,7 @@ section
 }
 .nav_items li.active
 {
-	background: gold;
+	background: #AA9B70;
 }
 .nav_items li.active a
 {
@@ -393,7 +396,7 @@ section
 }
 .nav_items li:hover
 {
-	background: gold;
+	background: #AA9B70;
 }
 .nav_items li:hover a
 {
@@ -581,7 +584,7 @@ section
 	position: absolute;
 	top: -1px;
 	left: -5px;
-	color: gold;
+	color: #AA9B70;
 	z-index: -1;
 }
 .fs_menu_list li a > span::after
@@ -627,11 +630,11 @@ section
 .fs_social li i
 {
 	font-size: 13px;
-	color: gold;
+	color: #AA9B70;
 }
 .fs_social li:hover i
 {
-	color: gold;
+	color: #AA9B70;
 }
 
 /*********************************
@@ -645,7 +648,7 @@ section
 	right: 0px;
 	width: auto;
 	height: 74px;
-	background: gold;
+	background: #AA9B70;
 	z-index: 11;
 	padding-right: 38px;
 	padding-left: 45px;
@@ -699,7 +702,7 @@ section
 	transform: translate(-50%, -50px);
 	font-size: 72px;
 	font-weight: 900;
-	color: gold;
+	color: #AA9B70;
 	opacity: 0.32;
 }
 .section_title h2::before
@@ -805,7 +808,7 @@ section
 	left: 0;
 	width: 43px;
 	height: 2px;
-	background: gold;
+	background: #AA9B70;
 	content: '';
 }
 
@@ -828,7 +831,7 @@ section
 .input_field:focus,
 .text_field:focus
 {
-	border: solid 2px gold !important;
+	border: solid 2px #AA9B70 !important;
 	box-shadow: none !important;
 	outline: none !important;
 }
@@ -869,7 +872,7 @@ section
 	position: relative;
 	width: 153px;
     height: 66px;
-    background: gold;
+    background: #AA9B70;
     overflow: hidden;
     border: none;
     font-size: 11px;
@@ -1070,7 +1073,7 @@ th {
 	left: 0;
 	width: 43px;
 	height: 2px;
-	background: gold;
+	background: #AA9B70;
 	content: '';
 }
 
@@ -1105,7 +1108,7 @@ th {
 	left: 0;
 	width: 9px;
 	height: 9px;
-	background: gold;
+	background: #AA9B70;
 	content: '';
 }
 
