@@ -36,11 +36,11 @@
             <ul class="nav_items">
               <li class="active"><a href="#"><span>home</span></a></li>
               <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span>About us</span></a></li>
-              <li><a href="rush.html"><span>Recruitment</span></a></li>
-              <li><a href="alumni.html"><span>Alumni</span></a></li>
-              <li><a href="pictures.html"><span>Gallery</span></a></li>
-              <li><a href="comment.html"><span>Comments?</span></a></li>
-              <li><a href="contact.html"><span>Contact</span></a></li>
+              <li><a href="rush"><span>Recruitment</span></a></li>
+              <li><a href="alumni"><span>Alumni</span></a></li>
+              <li><a href="pictures"><span>Gallery</span></a></li>
+              <li><a href="comment"><span>Comments?</span></a></li>
+              <li><a href="contact"><span>Contact</span></a></li>
             </ul>
           </nav>
           </div>
@@ -57,11 +57,11 @@
           <ul class="fs_menu_list">
             <li><a href="#"><span><span>H</span>Home</span></a></li>
             <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span><span>A</span>About us</span></a></li>
-            <li><a href="rush.html"><span><span>R</span>Recruitment</span></a></li>
-            <li><a href="alumni.html"><span><span>A</span>Alumni</span></a></li>
-            <li><a href="pictures.html"><span><span>G</span>Gallery</span></a></li>
-            <li><a href="comment.html"><span><span>C</span>Comments?</span></a></li>
-            <li><a href="contact.html"><span><span>C</span>Contact</span></a></li>
+            <li><a href="rush"><span><span>R</span>Recruitment</span></a></li>
+            <li><a href="alumni"><span><span>A</span>Alumni</span></a></li>
+            <li><a href="pictures"><span><span>G</span>Gallery</span></a></li>
+            <li><a href="comment"><span><span>C</span>Comments?</span></a></li>
+            <li><a href="contact"><span><span>C</span>Contact</span></a></li>
           </ul>
         </nav>
         <div class="fs_social_container d-flex flex-row justify-content-end align-items-center">
@@ -89,7 +89,7 @@
                   <div class="col slider_content_col">
                     <div class="main_slider_content">
                       <h1 style="color: #aa9b70;">The Creed</h1>
-                      <div class="button discover_button"> <a href="creed.html"
+                      <div class="button discover_button"> <a href="creed"
 
                           class="d-flex flex-row align-items-center justify-content-center">View<img
 
@@ -111,7 +111,7 @@
                   <div class="col slider_content_col">
                     <div class="main_slider_content">
                       <h1 style="color: black;">The House</h1>
-                      <div class="button discover_button"> <a href="house.html"
+                      <div class="button discover_button"> <a href="house"
 
                           class="d-flex flex-row align-items-center justify-content-center">View<img
 
@@ -181,7 +181,7 @@
             <!-- Features Item -->
             <div class="col-lg-4 features_col">
               <div class="features_item d-flex flex-column align-items-center justify-content-center text-center">
-                <a href="contact.html"><i class="fas fa-address-card fa-3x"></i></a>
+                <a href="contact"><i class="fas fa-address-card fa-3x"></i></a>
                 <h3>Contact EC members</h3>
                 <p>Easily get in touch with the Executive Council officers</p>
               </div>
@@ -189,7 +189,7 @@
             <!-- Features Item -->
             <div class="col-lg-4 features_col">
               <div class="features_item d-flex flex-column align-items-center justify-content-center text-center">
-                <a href="calender.html"><i class="fas fa-calendar-alt fa-3x"></i></a>
+                <a href="calender"><i class="fas fa-calendar-alt fa-3x"></i></a>
                 <h3>View our Calender</h3>
                 <p>See what we're planning on doing</p>
               </div>
@@ -197,7 +197,7 @@
             <!-- Features Item -->
             <div class="col-lg-4 features_col">
               <div class="features_item d-flex flex-column align-items-center justify-content-center text-center">
-                <a href="comment.html"><i class="fas fa-lightbulb fa-3x"></i></a>
+                <a href="comment"><i class="fas fa-lightbulb fa-3x"></i></a>
                 <h3>Got any questions?</h3>
                 <p>Feel free to drop any questions you may have and we'll answer
                   it for you</p>
@@ -218,7 +218,7 @@
           </div>
           <div class="row">
             <div class="col-lg-10 offset-lg-1 text-center contact_text">
-              <div class="button contact_button"> <a href="contact.html" class="d-flex flex-row align-items-center justify-content-center">contact<img
+              <div class="button contact_button"> <a href="contact" class="d-flex flex-row align-items-center justify-content-center">contact<img
 
                     src="images/arrow_right.svg" alt=""></a> </div>
             </div>
