@@ -121,19 +121,19 @@
 								<div>
 									<input id="contact_form_name" class="input_field contact_form_name" name="name" type="text" placeholder="Name" required="required" data-error="Name is required.">
 									<input id="contact_form_email" class="input_field contact_form_email" type="email" name="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
-                  <select name="officer">
-                    <option value="Commander">Commander: Nathan Marin</option>
-                    <option value="Lt. Commander">Lt. Commander: Collin Duffy</option>
-                    <option value="Treasurer">Treasurer: Domenico Galati</option>
-                    <option value="Recorder">Recorder: Grayson Sorenson</option>
-                    <option value="Candidate Marshal">Candidate Marshal: Max Williams</option>
-                    <option value="Recruitment">Recruitment: Zach Patrick</option>
-                    <option value="Chaplin">Chaplin: Will Brumitt</option>
-                    <option value="Alumni Relations">Alumni Relations</option>
-                    <option value="Social">Social: Dylan Reed</option>
-                    <option value="Philathropy">Philanthropy: Aaron Klein</option>
-                    <option value="Scholarship">Scholarship: Jake Anson</option>
-                  </select>
+                 							<input id="contact_form_name"><select name="officer">
+                   							 <option value="Commander">Commander: Nathan Marin</option>
+                    							 <option value="Lt. Commander">Lt. Commander: Collin Duffy</option>
+                    							 <option value="Treasurer">Treasurer: Domenico Galati</option>
+                    							 <option value="Recorder">Recorder: Grayson Sorenson</option>
+                    							 <option value="Candidate Marshal">Candidate Marshal: Max Williams</option>
+                    							 <option value="Recruitment">Recruitment: Zach Patrick</option>
+                    							 <option value="Chaplin">Chaplin: Will Brumitt</option>
+                    							 <option value="Alumni Relations">Alumni Relations: Jake Sine</option>
+                     							 <option value="Social">Social: Dylan Reed</option>
+                    							 <option value="Philathropy">Philanthropy: Aaron Klein</option>
+                    							 <option value="Scholarship">Scholarship: Jake Anson</option>
+                  							</select>
 									<input id="contact_form_subject" class="input_field contact_form_subject" type="text" name="subject" placeholder="Subject" required="required" data-error="Subject is required.">
 									<textarea id="contact_form_message" class="text_field contact_form_message" name="message"  placeholder="Message" rows="4" required data-error="Please, write us a message."></textarea>
 									
@@ -167,24 +167,9 @@
 								</ul>
 							</div>
 						</div>
-
-					</div>
-				</div>
-
-			</div>
-
-			<!-- Google Map Container -->
-
-			<div class="row">
-				<div class="col">
-					<div id="google_map">
-						<div class="map_container">
-							<div id="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3260.7110844536446!2d-111.65039808457287!3d35.188752864429794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d8f6957cf3f4f%3A0x2611b1989289e9a5!2s629+S+Fountaine+St%2C+Flagstaff%2C+AZ+86001!5e0!3m2!1sen!2sus!4v1529462923647" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe></div>
-						</div>
 					</div>
 				</div>
 			</div>
-
 		</div>
 	</div>
 
