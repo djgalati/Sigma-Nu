@@ -121,7 +121,7 @@
 								<div>
 									<input id="contact_form_name" class="input_field contact_form_name" name="name" type="text" placeholder="Name" required="required" data-error="Name is required.">
 									<input id="contact_form_email" class="input_field contact_form_email" type="email" name="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
-                 							<input id="contact_form_name" select name="officer">
+                 							<select name="officer" style="height: 40px; font-size: 14px; width: 100%">
                    							 <option value="Commander">Commander: Nathan Marin</option>
                     							 <option value="Lt. Commander">Lt. Commander: Collin Duffy</option>
                     							 <option value="Treasurer">Treasurer: Domenico Galati</option>
