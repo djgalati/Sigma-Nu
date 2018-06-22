@@ -40,7 +40,7 @@
               <li><a href="index"><span>home</span></a></li>
               <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span>About us</span></a></li>
               <li><a href="rush"><span>Recruitment</span></a></li>
-	            <li><a href="alumni"><span>Alumni</span></a></li>
+	      <li><a href="alumni"><span>Alumni</span></a></li>
               <li><a href="pictures"><span>Gallery</span></a></li>
               <li><a href="comment"><span>Comments?</span></a></li>
               <li><a href="contact"><span>Contact</span></a></li>
@@ -121,7 +121,7 @@
 								<div>
 									<input id="contact_form_name" class="input_field contact_form_name" name="name" type="text" placeholder="Name" required="required" data-error="Name is required.">
 									<input id="contact_form_email" class="input_field contact_form_email" type="email" name="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
-                 							<select name="officer" style="height: 40px; font-size: 14px; width: 100%">
+                 							<select name="officer" style="height: 40px; font-size: 14px; width: 100% margin-bottom: 12px;">
                    							 <option value="Commander">Commander: Nathan Marin</option>
                     							 <option value="Lt. Commander">Lt. Commander: Collin Duffy</option>
                     							 <option value="Treasurer">Treasurer: Domenico Galati</option>
