@@ -109,7 +109,8 @@
 			<div class="row">
 				<div class="col-lg-8">
 					<div class="contact_main_content">
-						<div class="contact_subtitle">Your message was successfully sent. You may close this page</div>
+						<div class="contact_subtitle" style="text-align: center;">Your message was successfully sent. </div>
+						<div class="contact_subtitle" style="text-align: center;">You may close this pag.e</div>
 					</div>
 				</div>
 		</div>
