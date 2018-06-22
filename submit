@@ -108,9 +108,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8">
-					<div class="contact_main_content">
-						<div style="text-align: center; font-size: 16px; font-weight: 600;">Your message was successfully sent. </div>
-						<div style="text-align: center; font-size: 16px; font-weight: 600;">You may close this page.</div>
+					<div class="contact_main_content" style="text-align: center; font-size: 16px; font-weight: 600; margin-bottom: 100px; align: center;">
+						<div>Your message was successfully sent. </div>
+						<div>You may close this page.</div>
 					</div>
 				</div>
 		</div>
