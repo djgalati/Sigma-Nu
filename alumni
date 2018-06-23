@@ -18,8 +18,6 @@
 <link rel="stylesheet" type="text/css" href="styles/contact_responsive.css">
 
 <!--Installed Add-ons-->
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <script src="https://www.google.com/jsapi" type="text/javascript"></script>
 </head>
 	
