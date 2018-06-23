@@ -16,6 +16,14 @@
 <link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="styles/contact_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/contact_responsive.css">
+
+<!--Installed Add-ons-->
+<header class="header d-flex flex-row justify-content-end align-items-center">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 <script src="https://www.google.com/jsapi" type="text/javascript"></script>
 </head>c
 	
@@ -25,12 +33,7 @@
 	
 	<!-- Header -->
 
-	<header class="header d-flex flex-row justify-content-end align-items-center">
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-	<link rel="manifest" href="/manifest.json">
-	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-	<meta name="theme-color" content="#ffffff">
+	
 
 		<!-- Logo -->
 		<div class="logo_container mr-auto">
