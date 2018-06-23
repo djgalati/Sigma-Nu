@@ -131,7 +131,7 @@
                     							 <option value="Chaplin">Chaplin: Will Brumitt</option>
                     							 <option value="Alumni Relations">Alumni Relations: Jake Sine</option>
                      							 <option value="Social">Social: Dylan Reed</option>
-                    							 <option value="Philathropy">Philanthropy: Aaron Klein</option>
+                    							 <option value="Philanthropy">Philanthropy: Aaron Klein</option>
                     							 <option value="Scholarship">Scholarship: Jake Anson</option>
                   							</select>
 									<input id="contact_form_subject" class="input_field contact_form_subject" type="text" name="subject" placeholder="Subject" required="required" data-error="Subject is required.">
