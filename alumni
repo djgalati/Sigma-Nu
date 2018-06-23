@@ -26,6 +26,7 @@
 	<!-- Header -->
 
 	<header class="header d-flex flex-row justify-content-end align-items-center">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 
 		<!-- Logo -->
 		<div class="logo_container mr-auto">
