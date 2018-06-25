@@ -110,8 +110,8 @@
                 <div class="row">
                   <div class="col slider_content_col">
                     <div class="main_slider_content">
-                      <h1 style="color: white; margin-top: -140px;">Rush week</h1>
-                      <div class="button discover_button" style="margin-left: 650px; margin-top: -200px;"> <a href="rush"
+                      <h1 style="margin-top: -140px; margin-left: 100px;">Rush week</h1>
+                      <div class="button discover_button" style="margin-left: 650px; margin-top: -150px;"> <a href="rush"
 
                           class="d-flex flex-row align-items-center justify-content-center">Learn More<img
 
