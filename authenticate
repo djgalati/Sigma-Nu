@@ -128,7 +128,7 @@ return " ";
 <input type="button" value="Enter Protected Area" onClick="passWord()">
 </FORM>
 </CENTER>
-<div style="margin-bottom: 175px;"></div>
+<div style="margin-bottom: 170px;"></div>
 	
 
 	<!-- Footer -->
