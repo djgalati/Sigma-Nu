@@ -1,0 +1,4 @@
+AuthName "My Secured Area”
+AuthType Basic
+AuthUserFile /path/to/your/directory/.htpasswd
+require valid-user
