@@ -164,8 +164,10 @@
 			<div class="row">
 				<div class="col">
 					<div id="google_map">
-						<div class="map_container">
-							<div id="map" style="height: 100%; width: 100%;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3260.7110844536446!2d-111.65039808457287!3d35.188752864429794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d8f6957cf3f4f%3A0x2611b1989289e9a5!2s629+S+Fountaine+St%2C+Flagstaff%2C+AZ+86001!5e0!3m2!1sen!2sus!4v1529983448462" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+						<div class="map_container" style="height: 100%;">
+							<div id="map">
+								<div style="position:absolute;vheight: 100%; width: 100%;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3260.7110844536446!2d-111.65039808457287!3d35.188752864429794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d8f6957cf3f4f%3A0x2611b1989289e9a5!2s629+S+Fountaine+St%2C+Flagstaff%2C+AZ+86001!5e0!3m2!1sen!2sus!4v1529983448462" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+							</div>
 						</div>
 					</div>
 				</div>
