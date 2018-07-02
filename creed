@@ -1,89 +1,164 @@
-<HTML>
-<HEAD><TITLE>Sigma Nu at Northern Arizona University</TITLE></HEAD>
-<BODY BGCOLOR="#OOOOOO" TEXT="#FFFFOO" LINK="#FFFFFF" VLINK="#FFFFFF"
-ALINK="#OOOOFF">
-<H1><CENTER><B>The Creed of Sigma Nu</B></H1>
-<H3>by Walter James Sears</H3>
-<BR><BR></CENTER>
-<FONT SIZE=3>
-<B>TO BELIEVE IN THE LIFE OF LOVE;</B> to win in the fresh morning of our
-youth the loyal love of faithful friends, who will go with us unmmoved
-into the darkening shadows of life's closing day; and so to seek and to
-find, to have and to hold the friendships that will abide. To think of God
-as the common father of all men, and all men as a common brotherhood, thus
-recognizing the continuity of the Divine and the solidarity of the human
-life. To build somewhere in the wide world the sheltering walls of a home,
-however humble and obscure, where Love shall glorify the wife, Duty
-enshrine the mother, and Affection ennoble the child. To keep green the
-sainted memory of our loved and lost, their faults forgotten, their
-virtues enshrined in our hearts forever. To try bravely to do unto our
-fellow men as we should do unto us, reckoning not their lineage nor their
-wealth, but esteeming their manhood above their badge of rank. To let our  
-lives be led by the spirits of Gentleness, Justice, and Mercy. And so to
-be true to the Knighthood of Love. 
-<BR><BR>
-<B>TO WALK IN THE WAY OF HONOR;</B> to exalt the fundamental virtues of
-the race; and, prizing every noble impulse, to realize so deeply the
-baseness of deceit, that no obligation will be more binding than our plighted 
-word. To be steadfast in the performance of every trust, and, spurning the
-gaudy gifts of greed and power, to be content to live by our knightly vow
-that our honor is dearer to us than our lives; and so to esteem the man's
-character first, his culture second, and his pedigree not at all, unless
-he be worthy of it. Emulating the chivalrous deeds of courtesy, and sealing
-not our hearts against the torch of tenderness, to win the love and care of
-some incorruptible woman. And so to be loyal to the Knighthood of Honor. 
-<BR><BR>
-<B>TO SERVE IN THE LIGHT OF TRUTH;</B> to open wide, Life's windows to the
-revelations of heaven and earth. Avoiding the Phariseeism that belittles
-the soul and scorning the bigotry that blights the mind, to respect every
-altar of faith built in God's name, by every sincere worshiper to whom, if
-we cannot give our sympathy, we shall not deny the kindness of our manly
-silence; and, whatever our creed, to reverence the Christ as the Divine
-Compassion for struggling humanity -- a compassion that, giving the world
-its gospel of human service, saves men to the end that they may serve
-their fellow men. 
-<BR><BR>
-To seek in nature, the meaning of the Infinite Truth; to understand that
-the laws of growth are the laws of God to believe that the melody of
-birds, the laughter of children the unmeasured sacrifice of motherhood,
-and the ceaseless yearning of all men for a wider outlook and a nobler
-existence are prophetic of the perfect joy and love of another world and
-so believing, to find rest, as in the shadow of a great rock, against all
-the storms that beset us; catching from the silence of the startlit
-nights, the peace of the autumn days, the solemnity of the boundless seas,
-that spirit of Hope and Faith which soothes hurt of grief, heals the wound
-of wrong, and calms the fever of doubt. 
-<BR><BR>
-To welcome the achievements of art and science, religion and learning, 
-labor and law, under whose radiant banners battle the hosts of progress;
-honoring every honest student as the benefactor of his race, and every
-consecrated school as a bulwark of the Republic; and so to be loyal to the
-American university, as the home of American liberty, democracy, religion,
-and culture. 
-<BR><BR>
-To guard with jealous care not only ancient rights of human freedom, in
-whose name we shall destroy all wrong and oppression, but also the newer
-rights of social service, the ultimate purpose of whose ministrations
-shall be to give to every life, the opportunity to enjoy the earth in the
-fullness of its beauty and grace, its comfort and good cheer; holding fast
-to the conviction that whatever sweetens our natures, uplifts our ideals,
-strengthens our character and disenthralls our spirits will us in the end
-into the full stature of a noble manhood; and, so inspires, to cling to
-the visions of our youth, and, despite the sordid struggles of the selfish
-world, to practice every day, as lads in college, and men in the world,
-the Faith of our Fraternity, thinking of it not only as the inspiring
-Ideal of a militant Brotherhood, but also as as creative force for the
-spiritual development of men, whose lives it shall dedicate to Love,
-glorify with Honor, and conquer for Truth. And so to be faithful to the
-Knighthood of Truth. 
-<BR><BR>
-<B>TO BELIEVE IN THE LIFE OF LOVE, TO WALK IN THE WAY OF HONOR,
-TO SERVE IN THE LIGHT OF TRUTH -- this is the Life, the Way, and the Light
-of Sigma Nu -- this is the Creed of our Fraternity.</B>
-<HR SIZE=3>
-<FONT SIZE=+0>&copy; Sigma Nu Fraternity Inc.
-<HR SIZE=3>
-<BR>
-<CENTER>
-<A HREF="index"> Return to main page.</A>
-</HTML>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Sigma Nu-Submit</title>
+<base target="_top">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Zeta Template Project - Contact">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
+<link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+<link rel="stylesheet" type="text/css" href="plugins/js-flickr-gallery-1.24/js-flickr-gallery.css">
+<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/contact_styles.css">
+<link rel="stylesheet" type="text/css" href="styles/contact_responsive.css">
+</head>
+	
+<body>
+
+<div class="super_container">
+	
+	<!-- Header -->
+
+	<header class="header d-flex flex-row justify-content-end align-items-center">
+
+		<!-- Logo -->
+		<div class="logo_container mr-auto">
+          <div class="logo">
+          <a href="http://www.sigmanu.org"><span>S</span>Sigma Nu</a>
+          <a href="#"> Eta Iota</a>
+          </div>
+          </div>
+          <!-- Main Navigation -->
+          <div style="float:right;">
+          <nav class="main_nav justify-self-end">
+            <ul class="nav_items">
+              <li><a href="index"><span>home</span></a></li>
+              <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span>About us</span></a></li>
+              <li><a href="rush"><span>Recruitment</span></a></li>
+              <li><a href="alumni"><span>Alumni</span></a></li>
+              <li><a href="pictures"><span>Gallery</span></a></li>
+              <li><a href="https://www.legfi.com/app/fundraisers/etaiotadonations/713 "><span>Donations</span></a></li>
+              <li><a href="contact"><span>Contact</span></a></li>
+            </ul>
+          </nav>
+          </div>
+          <!-- Hamburger -->
+          <div class="hamburger_container"> <span class="hamburger_text">Menu</span>
+            <span class="hamburger_icon"></span> </div>
+        </div>
+      </header>
+      <!-- Menu -->
+      <div class="fs_menu_overlay"></div>
+      <div class="fs_menu_container">
+        <div class="fs_menu_shapes"><img src="images/menu_shapes.png" alt=""></div>
+        <nav class="fs_menu_nav">
+          <ul class="fs_menu_list">
+            <li><a href="index"><span><span>H</span>Home</span></a></li>
+            <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span><span>A</span>About us</span></a></li>
+            <li><a href="rush"><span><span>R</span>Recruitment</span></a></li>
+            <li><a href="alumni"><span><span>A</span>Alumni</span></a></li>
+            <li><a href="pictures"><span><span>G</span>Gallery</span></a></li>
+            <li><a href="https://www.legfi.com/app/fundraisers/etaiotadonations/713 "><span><span>D</span>Donations</span></a></li>
+            <li><a href="contact"><span><span>C</span>Contact</span></a></li>
+          </ul>
+        </nav>
+        <div class="fs_social_container d-flex flex-row justify-content-end align-items-center">
+          <ul class="fs_social">
+            <li><a href="http://www.facebook.com/NAUsigmanu"><i class="fab fa-facebook-f trans_300"></i></a><br>
+            </li>
+            <li><a href="http://www.twitter.com/nau_sigmanu"><i class="fab fa-twitter trans_300"></i></a><br>
+            </li>
+            <li><a href="http://www.instagram.com/nausigmanu"><i class="fab fa-instagram trans_300"></i></a><br>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+	<!-- Home -->
+
+	
+	<div class="home_social_container d-flex flex-row justify-content-end align-items-center">
+		<ul class="home_social">
+			<li><a href="http://www.facebook.com/NAUsigmanu"><i class="fab fa-facebook-f trans_300"></i></a><br>
+            		</li>
+            		<li><a href="http://www.twitter.com/nau_sigmanu"><i class="fab fa-twitter trans_300"></i></a><br>
+            		</li>
+            		<li><a href="http://www.instagram.com/nausigmanu"><i class="fab fa-instagram trans_300"></i></a><br>
+            		</li>
+		</ul>
+	</div>	
+
+	<div class="home prlx_parent">
+
+		<!-- Parallax Background -->
+		<div class="home_background prlx" style="background-image:url(images/icons/Sigma%20Nu%20+%20Badge.png"></div>
+		<div class="services_page_shapes" style="background-image:url(images/services_page_shapes.png)"></div>
+
+	</div>
+	
+	<!-- Contact Content -->
+
+	<div class="contact_content">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8">
+					<div class="contact_main_content" style="text-align: center; font-size: 16px; font-weight: 600; margin-bottom: 100px; align: center;">
+						<h1>The Creed of Sigma Nu</h1>
+            <h5>By: Walter James Sears</h5>
+            <h2 style="margin-top: 20px;">TO BELIEVE IN THE LIFE OF LOVE;<h4> to win in the fresh morning of our youth the loyal love of faithful friends, who will go with us unmmoved into the darkening shadows of life's closing day; and so to seek and to find, to have and to hold the friendships that will abide. To think of God as the common father of all men, and all men as a common brotherhood, thus recognizing the continuity of the Divine and the solidarity of the human life. To build somewhere in the wide world the sheltering walls of a home, however humble and obscure, where Love shall glorify the wife, Duty enshrine the mother, and Affection ennoble the child. To keep green the sainted memory of our loved and lost, their faults forgotten, their virtues enshrined in our hearts forever. To try bravely to do unto our fellow men as we should do unto us, reckoning not their lineage nor their wealth, but esteeming their manhood above their badge of rank. To let our lives be led by the spirits of Gentleness, Justice, and Mercy. And so to be true to the Knighthood of Love.</h4></h2>
+					  <h2 style="margin-top: 20px;">TO WALK IN THE WAY OF HONOR;<h4> to exalt the fundamental virtues of the race; and, prizing every noble impulse, to realize so deeply the baseness of deceit, that no obligation will be more binding than our plighted word. To be steadfast in the performance of every trust, and, spurning the gaudy gifts of greed and power, to be content to live by our knightly vow that our honor is dearer to us than our lives; and so to esteem the man's character first, his culture second, and his pedigree not at all, unless he be worthy of it. Emulating the chivalrous deeds of courtesy, and sealing not our hearts against the torch of tenderness, to win the love and care of some incorruptible woman. And so to be loyal to the Knighthood of Honor. </h4></h2>
+            <h2 style="margin-top: 20px;">TO SERVE IN THE LIGHT OF TRUTH;<h4> to open wide, Life's windows to the revelations of heaven and earth. Avoiding the Phariseeism that belittles the soul and scorning the bigotry that blights the mind, to respect every altar of faith built in God's name, by every sincere worshiper to whom, if we cannot give our sympathy, we shall not deny the kindness of our manly silence; and, whatever our creed, to reverence the Christ as the Divine Compassion for struggling humanity -- a compassion that, giving the world its gospel of human service, saves men to the end that they may serve their fellow men. To seek in nature, the meaning of the Infinite Truth; to understand that the laws of growth are the laws of God to believe that the melody of birds, the laughter of children the unmeasured sacrifice of motherhood, and the ceaseless yearning of all men for a wider outlook and a nobler existence are prophetic of the perfect joy and love of another world and so believing, to find rest, as in the shadow of a great rock, against all the storms that beset us; catching from the silence of the startlit nights, the peace of the autumn days, the solemnity of the boundless seas, that spirit of Hope and Faith which soothes hurt of grief, heals the wound of wrong, and calms the fever of doubt. To welcome the achievements of art and science, religion and learning, labor and law, under whose radiant banners battle the hosts of progress; honoring every honest student as the benefactor of his race, and every consecrated school as a bulwark of the Republic; and so to be loyal to the American university, as the home of American liberty, democracy, religion, and culture. To guard with jealous care not only ancient rights of human freedom, in whose name we shall destroy all wrong and oppression, but also the newer rights of social service, the ultimate purpose of whose ministrations shall be to give to every life, the opportunity to enjoy the earth in the fullness of its beauty and grace, its comfort and good cheer; holding fast to the conviction that whatever sweetens our natures, uplifts our ideals, strengthens our character and disenthralls our spirits will us in the end into the full stature of a noble manhood; and, so inspires, to cling to the visions of our youth, and, despite the sordid struggles of the selfish world, to practice every day, as lads in college, and men in the world, the Faith of our Fraternity, thinking of it not only as the inspiring Ideal of a militant Brotherhood, but also as as creative force for the spiritual development of men, whose lives it shall dedicate to Love, glorify with Honor, and conquer for Truth. And so to be faithful to the Knighthood of Truth.</h4></h2>
+            <h2 style="margin-top: 40px;">TO BELIEVE IN THE LIFE OF LOVE, TO WALK IN THE WAY OF HONOR, TO SERVE IN THE LIGHT OF TRUTH -- this is the Life, the Way, and the Light of Sigma Nu -- this is the Creed of our Fraternity. </h2>
+          </div>
+				</div>
+		</div>
+	</div>
+
+	
+
+	<!-- Footer -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row footer_content d-flex flex-sm-row flex-column align-items-center">
+				<div class="col-sm-6 cr text-sm-left text-center">
+					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+				</div>
+				<div class="col-sm-6 text-sm-right text-center">
+					<div class="footer_social_container">
+						<ul class="footer_social">
+							<li><a href="http://www.facebook.com/NAUsigmanu"><i class="fab fa-facebook-f trans_300"></i></a><br></li>
+          						<li><a href="http://www.twitter.com/nau_sigmanu"><i class="fab fa-twitter trans_300"></i></a><br></li>
+           						<li><a href="http://www.instagram.com/nausigmanu"><i class="fab fa-instagram trans_300"></i></a><br></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+</div>
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="styles/bootstrap4/popper.js"></script>
+<script src="styles/bootstrap4/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/progressbar/progressbar.min.js"></script>
+<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="js/contact_custom.js"></script>
+</body>
+
+</html>
