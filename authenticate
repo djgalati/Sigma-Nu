@@ -130,10 +130,10 @@ return " ";
 <div style="margin-bottom: 165px;"></div>
 	
 	<div style="center">
-		<h2>Links for brothers</h2>
-		<a href="legfi.com">Legfi Login</a>
-		<a href="https://members.sigmanu.org/login.asp">Sigma Nu login</a>
-		<a href="https://nau.campuslabs.com/engage/organization/sigmanu">True Blue Connects</a>
+		<div><h2>Links for brothers</h2></div>
+		<div><a href="legfi.com">Legfi Login</a></div>
+		<div><a href="https://members.sigmanu.org/login.asp">Sigma Nu login</a></div>
+		<div><a href="https://nau.campuslabs.com/engage/organization/sigmanu">True Blue Connects</a></div>
 
 	</div>
 
