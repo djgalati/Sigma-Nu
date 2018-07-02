@@ -121,8 +121,8 @@
 									<input id="contact_form_name" class="input_field contact_form_name" name="name" type="text" placeholder="Name" required="required" data-error="Name is required.">
 									<input id="contact_form_email" class="input_field contact_form_email" type="email" name="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
                  							<select name="officer" style="height: 40px; font-size: 14px; width: 100%; margin-bottom: 12px;">
-                   							 <option value="Commander">Commander: Nathan Marin</option>
-                    							 <option value="Lt. Commander">Lt. Commander: Collin Duffy</option>
+                   							 <option value="Commander">Commander(President): Nathan Marin</option>
+                    							 <option value="Lt. Commander">Lt. Commander(Vice President): Collin Duffy</option>
                     							 <option value="Recruitment">Recruitment: Zach Patrick</option>
                     							 <option value="Alumni Relations">Alumni Relations: Jake Sine</option>
                     							 <option value="Webmaster">Webmaster: Domenico Galati</option>
