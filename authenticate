@@ -101,7 +101,7 @@
 
 	</div>
 	
-	<!-- Contact Content -->
+	<!-- authenticate link -->
 <SCRIPT>
 function passWord() {
 var testV = 1;
@@ -129,6 +129,13 @@ return " ";
 </CENTER>
 <div style="margin-bottom: 165px;"></div>
 	
+	<div>
+		<h2>Links for brothers</h2>
+		<a href="legfi.com">Legfi Login</a>
+		<a href="https://members.sigmanu.org/login.asp">Sigma Nu login</a>
+		<a href="https://nau.campuslabs.com/engage/organization/sigmanu">True Blue Connects</a>
+
+	</div>
 
 	<!-- Footer -->
 
