@@ -129,7 +129,7 @@ return " ";
 </CENTER>
 <div style="margin-bottom: 165px;"></div>
 	
-	<div style="center">
+	<div style="align: center; text-align: center;">
 		<div><h2>Links for brothers</h2></div>
 		<div><a href="legfi.com">Legfi Login</a></div>
 		<div><a href="https://members.sigmanu.org/login.asp">Sigma Nu login</a></div>
