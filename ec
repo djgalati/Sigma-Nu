@@ -123,15 +123,9 @@
                  							<select name="officer" style="height: 40px; font-size: 14px; width: 100%; margin-bottom: 12px;">
                    							 <option value="Commander">Commander: Nathan Marin</option>
                     							 <option value="Lt. Commander">Lt. Commander: Collin Duffy</option>
-                    							 <option value="Treasurer">Treasurer: Domenico Galati</option>
-                    							 <option value="Recorder">Recorder: Grayson Sorenson</option>
-                    							 <option value="Candidate Marshal">Candidate Marshal: Max Williams</option>
                     							 <option value="Recruitment">Recruitment: Zach Patrick</option>
-                    							 <option value="Chaplin">Chaplin: Will Brumitt</option>
                     							 <option value="Alumni Relations">Alumni Relations: Jake Sine</option>
-                     							 <option value="Social">Social: Dylan Reed</option>
-                    							 <option value="Philanthropy">Philanthropy: Aaron Klein</option>
-                    							 <option value="Scholarship">Scholarship: Jake Anson</option>
+                    							 <option value="Webmaster">Webmaster: Domenico Galati</option>
                   							</select>
 									<input id="contact_form_subject" class="input_field contact_form_subject" type="text" name="subject" placeholder="Subject" required="required" data-error="Subject is required.">
 									<textarea id="contact_form_message" class="text_field contact_form_message" name="message"  placeholder="Message" rows="4" required data-error="Please, write us a message."></textarea>
