@@ -62,7 +62,7 @@
             <li><a href="index"><span><span>H</span>Home</span></a></li>
             <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/"><span><span>A</span>About us</span></a></li>
             <li><a href="rush"><span><span>R</span>Recruitment</span></a></li>
-	    <li><a href="parents"><span><span>P</span<Parents</span></a></li>
+	    <li><a href="parents"><span><span>P</span>Parents</span></a></li>
             <li><a href="alumni"><span><span>A</span>Alumni</span></a></li>
             <li><a href="pictures"><span><span>G</span>Gallery</span></a></li>
             <li><a href="https://www.legfi.com/app/fundraisers/etaiotadonations/713 "><span><span>D</span>Donations</span></a></li>
