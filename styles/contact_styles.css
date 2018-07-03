@@ -41,6 +41,10 @@
 /*********************************
 2. Body and some general stuff
 *********************************/
+.form-all
+{
+	height:	125px !important;
+}
 
 *
 {
