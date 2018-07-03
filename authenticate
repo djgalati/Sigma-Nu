@@ -129,7 +129,7 @@ return " ";
 <input type="button" value="Enter Protected Area" onClick="passWord()">
 </FORM>
 </CENTER>
-<div style="margin-bottom: 165px;"></div>
+<div style="margin-bottom: 20px; margin-top: 20px;"></div>
 	
 	<div style="align: center; text-align: center;">
 		<div><h2>Links for brothers</h2></div>
