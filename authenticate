@@ -140,11 +140,17 @@ return " ";
 	</div>
 	
 	<!--Date Request Form-->
-	<div style="align: center; text-align: center; margin-top: 10px; margin-bottom: 10px;">
-		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHzQrJ2WyuUvxuib_pmDdaCVEuGP6OHUr-_xOeuApNJCYtRw/viewform?embedded=true" width="700" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+	
+	<div style="width: auto; align: center; text-align: center; margin-top: 10px; margin-bottom: 10px;;">
+ 		<div style="width:auto; float:left;">
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHzQrJ2WyuUvxuib_pmDdaCVEuGP6OHUr-_xOeuApNJCYtRw/viewform?embedded=true" width="700" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+		</div>
+		<div style="width:auto; float:right;">
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf4yOr41bIqmH3Y9q-JgWRRg-7PFl13NgZlel7Nu3YW5yC0MA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+		</div>
 	</div>
-
-
+	
+	
 	<!-- Footer -->
 
 	<footer class="footer">
