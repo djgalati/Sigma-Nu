@@ -141,12 +141,12 @@ return " ";
 	
 	<!--Date Request Form-->
 	
-	<div style="width: auto; align: center; text-align: center; margin-top: 10px; margin-bottom: 10px;">
+	<div style="width: 100%; align: center; text-align: center; margin-top: 10px; margin-bottom: 10px;">
  		<div style="width:50%; float:left;">
 			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHzQrJ2WyuUvxuib_pmDdaCVEuGP6OHUr-_xOeuApNJCYtRw/viewform?embedded=true" width="100%" height="1450" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 		</div>
 		<div style="width:50%; float:right;">
-			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf4yOr41bIqmH3Y9q-JgWRRg-7PFl13NgZlel7Nu3YW5yC0MA/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf4yOr41bIqmH3Y9q-JgWRRg-7PFl13NgZlel7Nu3YW5yC0MA/viewform?embedded=true" width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 		</div>
 	</div>
 	
