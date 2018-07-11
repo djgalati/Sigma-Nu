@@ -5,7 +5,7 @@ var visualization;
 
 function drawVisualization() {
     var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1il4lDznf6CeALokjqTe08wmppACX06vmjxT4G5oWYu0/edit?usp=sharing');
-    query.setQuery('SELECT A, B, H, I, J label A "Pin #", B "Name", H "  ", I "Pin #", J "Name"');
+    query.setQuery('SELECT A, B, C, H, I, J label A "Pin #", B "Name", C "Chapter Eternal", H "Pin #", I "Name", J "Chapter Eternal"');
     query.send(handleQueryResponse);
 }
 
