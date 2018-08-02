@@ -105,28 +105,34 @@
 	
 	<div style="text-align: center; align: center;">
 		<h2>Fall 2018 Rush Schedule</h2>
-			<h3>Rush Fest</h3>
-			<h4>Sunday, September 2nd</h4>
-			<h4>5-8pm, Skydome</h4>
+		
+			<h3 style="margin-top: 75px;">Rush Fest BBQ</h3>
+			<h4>Saturday, September 8th</h4>
+			<h4>1-4pm, Skydome</h4>
+		
+			<h3 style="margin-top: 50px;">Rush Fest</h3>
+			<h4>Sunday, September 9th</h4>
+			<h4>11am-7pm, HLC</h4>
 			
-			<h3 style="margin-top: 50px;">House Tours</h3>
-			<h4>Monday, September 3rd</h4>
-			<h4>Time:TBD, 629 S. fontaine st</h4>
+			<h3 style="margin-top: 50px;">House Tours (food catered)</h3>
+			<h4>Monday, September 10th</h4>
+			<h4>6-9pm, 629 S. fontaine st</h4>
 			
-			<h3 style="margin-top: 50px;">TBD</h3>
-			<h4>Tuesday, September 4th</h4>
-			<h4>TBD</h4>
+			<h3 style="margin-top: 50px;">Dodgeball Tournament</h3>
+			<h4>Tuesday, September 11th</h4>
+			<h4>7-9pm, HLC</h4>
 			
-			<h3 style="margin-top: 50px;">TBD</h3>
-			<h4>Wednesday, September 5th</h4>
-			<h4>TBD</h4>
+			<h3 style="margin-top: 50px;">Taco Night</h3>
+			<h4>Wednesday, September 12th</h4>
+			<h4>7-9:30pm, 629 S. fontaine st</h4>
 			
 			<h3 style="margin-top: 50px;">Formal Interviews</h3>
-			<h4>Thursday, September 6th</h4>
-			<h4>Time:TBD</h4>
+			<h4>Thursday, September 13th</h4>
+			<h4>7-9pm, 629 S. fontaine st</h4>
 			
-			<h3 style="margin-top: 50px;">Bid Dinner</h3>
-			<h4>Friday, September 7th</h4>
+			<h3 style="margin-top: 50px;">Bid Dinner (invite only)</h3>
+			<h4>Friday, September 14th</h4>
+			<h4>7-9pm, (rides will be provided)</h4>
 	</div>
 	
 	<!-- Contact Content -->
