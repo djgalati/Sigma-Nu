@@ -103,12 +103,13 @@
 
 	</div>
 
-	<div style=" align: center; text-align: center; width: 80%">
-		<p><span>Welcome to YOUR specific portion of the website. It is no mistake that your son has made it into TCU and is looking to be invloved. Your guidance and wisdom have led him down the paths he is most interested. We want you to know exactly about Sigma Nu and how we operate as a local and national fraternity. Sigma Nu takes a very intention and hands on approach to leadership development, advisement, and risk reduction. The safety and well-being of our memebers is key and the utmost priority of Sigma Nu.</p>
+	<div style=" margin: 10%; text-align: center; width: 80%">
+		<h1><strong>Undergraduate parents,</strong></h1>
+		<h3><span>Welcome to YOUR specific portion of the website. It is no mistake that your son has made it into NAU and is looking to be invloved. Your guidance and wisdom have led him down the paths he is most interested. We want you to know exactly about Sigma Nu and how we operate as a local and national fraternity. Sigma Nu takes a very intention and hands on approach to leadership development, advisement, and risk reduction. The safety and well-being of our memebers is key and the utmost priority of Sigma Nu.</h3>
 
 		<h2><span><strong>What is required to become an initiated member?</strong></span></h2>
 		<p>According to The LAW of Sigma Nu Fraternity, Inc. a candidate must satisfy the following requirements to become an initiated member of Sigma Nu Fraternity.</p>
-		<ul>
+		<ul style="text-align: left;">
 			<li>1. The candidate must be a matriculate of the host university.</li>
 			<li>2. A candidate must have subscribed his name to the formal obligations of the Fraternity.</li>
 			<li>3. A candidate must have completed, to the satisfaction of the chapter, a Candidate Education Program, which has been adopted by the Chapter to emphasize the ideals, objectives and traditions of the fraternity.</li>
