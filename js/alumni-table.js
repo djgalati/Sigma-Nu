@@ -4,7 +4,7 @@ google.load('visualization', '1', {
 var visualization;
 
 function drawVisualization() {
-    var query = new google.visualization.Query('https://script.google.com/macros/s/AKfycbxOaUpR6qtKyJ4eObDuOMPrJcJd2yomBeRkL9cvnnwAVrJvyGbA/execcom/spreadsheets/d/1il4lDznf6CeALokjqTe08wmppACX06vmjxT4G5oWYu0/edit?usp=sharing');
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1aPxIiabqqzmvTmj5SsFcQR_JT_nb08wwmY2a7ceptGA/edit#gid=1193858178');
     query.setQuery('SELECT A, B, E, I, J, M label A "Pin #", B "Name", E "Chapter Eternal", I "Pin #", J "Name", M "Chapter Eternal"');
     query.send(handleQueryResponse);
 }
