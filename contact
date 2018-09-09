@@ -165,15 +165,7 @@
 
 			<div class="row">
 				<div class="col">
-					<div id="google_map">
-						<div class="map_container" style="height: 100%;">
-							<div id="map">
-							
-							<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyD6uj2Svq0djxTiUQtM2c_lije5OMWRuUs '></script><div style='overflow:hidden;height:600px;width:800px;'><div id='gmap_canvas' style='height:600px;width:800px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://mapswebsite.org/'>www.mapswebsite.org</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=302ff846f56d814933694507f166f92baaea138f'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:15,center:new google.maps.LatLng(35.189029082810194,-111.64820939999998),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(35.189029082810194,-111.64820939999998)});infowindow = new google.maps.InfoWindow({content:'<strong>Eta Iota</strong><br>629 S Fountain St<br>86001 Flagstaff<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 					
-							</div>
-						</div>
-					</div>
 				</div>
 			</div>
 
