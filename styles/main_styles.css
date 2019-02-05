@@ -1299,8 +1299,6 @@ section
 .footer
 {
 	background: #111111;
-	position: absolute;
-	bottom: 0;
 }
 .footer_content
 {
