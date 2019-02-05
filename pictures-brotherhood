@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Sigma Nu-Gallery</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="See what life is like in our chapter.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/styles/bootstrap4/bootstrap.min.css">
+    <link href="/plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="/plugins/OwlCarousel2-2.2.1/animate.css">
+    <link rel="stylesheet" type="text/css" href="/styles/main_styles.css">
+    <link rel="stylesheet" type="text/css" href="/styles/responsive.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125570038-1"></script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-125570038-1');
+  </script>
+
+  </head>
+  
+  <body>
+  
+  <div class="super_container">
+    
+      <!-- Header -->
+    
+      <header class="header d-flex flex-row justify-content-end align-items-center">
+        
+        <!-- Logo -->
+        <div class="logo_container mr-auto">
+          <div class="logo">
+          <a href="http://www.sigmanu.org" target="_blank"><span>S</span>Sigma Nu</a>
+          <a href="#"> Eta Iota</a>
+          </div>
+          </div>
+          <!-- Main Navigation -->
+          <div style="float:right;">
+          <nav class="main_nav justify-self-end">
+            <ul class="nav_items">
+              <li><a href="index"><span>home</span></a></li>
+              <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/" target="_blank"><span>About us</span></a></li>
+              <li><a href="rush"><span>Recruitment</span></a></li>
+              <li><a href="parents"><span>Parents</span></a></li>
+              <li><a href="alumni"><span>Alumni</span></a></li>
+              <li><a href="pictures"><span>Gallery</span></a></li>
+              <li><a href="https://www.legfi.com/app/fundraisers/etaiotadonations/713" target="_blank"><span>Donations</span></a></li>
+              <li><a href="contact"><span>Contact</span></a></li>
+            </ul>
+          </nav>
+          </div>
+          <!-- Hamburger -->
+          <div class="hamburger_container"> <span class="hamburger_text">Menu</span>
+            <span class="hamburger_icon"></span> </div>
+        </div>
+      </header>
+      <!-- Menu -->
+      <div class="fs_menu_overlay"></div>
+      <div class="fs_menu_container">
+        <div class="fs_menu_shapes"><img src="images/menu_shapes.png" alt=""></div>
+        <nav class="fs_menu_nav">
+          <ul class="fs_menu_list">
+            <li><a href="index"><span><span>H</span>Home</span></a></li>
+            <li><a href="https://www.nau.edu/student-orgs/fsl/fraternities/sigma-nu/" target="_blank"><span><span>A</span>About us</span></a></li>
+            <li><a href="rush"><span><span>R</span>Recruitment</span></a></li>
+            <li><a href="parents"><span><span>P</span>Parents</span></a></li>
+            <li><a href="alumni"><span><span>A</span>Alumni</span></a></li>
+            <li><a href="pictures"><span><span>G</span>Gallery</span></a></li>
+            <li><a href="https://www.legfi.com/app/fundraisers/etaiotadonations/713" target="_blank"><span><span>D</span>Donations</span></a></li>
+            <li><a href="contact"><span><span>C</span>Contact</span></a></li>
+          </ul>
+        </nav>
+        <div class="fs_social_container d-flex flex-row justify-content-end align-items-center">
+          <ul class="fs_social">
+            <li><a href="http://www.facebook.com/NAUsigmanu" target="_blank"><i class="fab fa-facebook-f trans_300"></i></a><br>
+            </li>
+            <li><a href="http://www.instagram.com/nausigmanu" target="_blank"><i class="fab fa-instagram trans_300"></i></a><br>
+            </li>
+          </ul>
+        </div>
+      </div>
+    
+    
+    <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/yW1p1eMc9BRH9eGL6"
+  data-title="Brotherhood"
+  data-description="13 new photos · Album by Sigma Nu Eta Iota">
+  <img data-src="https://lh3.googleusercontent.com/m4mNJ0U8VUB-b8lJKdVzy8pgavc7xMSB-C5WRy6QDzZhEJEGo548_3njHhb6sP2ZsSwvQH7I6_l_2fyZuuksD_fn17pdvaRJmgOGsLIeNh8CrBbinkGRDp4uPsNQA2caaPqUl06l=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/rL-e5JWa7PsYHL3C3SD0WdByHdrvhrjLt2tCGi9XGfZSzJnZ_fYRUZbpN6MsKbT2iheVTIaeKvuAKcQV4c2gz6fNBKIke6TNN0UEIVMXnBvWyu5ylYQN5P_lFAvDJGRYw_OoSZfD=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/6-ka-Brs94PgXTBoDUQWtHO_mg4wlc9zQtP0Dx3LE-jpCVmJ8npRHyB344TJ18BYVWhc_UDXs-9pN50wHvZtGkqYo9XQCvkAw4Bxz5Crs8ei25tg7YEmwoMMREzVIknbHlQVl8FX=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/lL_bMI4Lhh7PrNkqvUJMg5xS719l303fEns0DUnrWSD0y2xRiiF_WLoTODhnjzuEmqN_hczQxM0imWpA3T40d7yrOt6yWfRDC4j6JYCPIJa_vytbCCo3o21FcCjJVJDi1KOHDJ1R=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/KQqGung3RY7q6Baz2OM5OOM3m1rXoiDdqEr37UNnhNYa3_UjJ48Nhb5spu7vjLFf1oJ89oi5ABaBNbQsttEbA-EB9jgZVhS4TjhLeWOTOr-357B0ERQInafc4FLot-nXPl_I1ohl=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/haDOVVqLa4PZ8mXkHuDaZ467OW4yEz1BIiTOpno_F7loP6wTT0YdLw0seGs_DpGUNyju7lEIyqAiLJiZ5r0SDV38wPvUi-A3BkGPQrZgsUIdmdXorzW2Vg-IqEfowKNUkiLtu5B6=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/FpzsLSbgmPlcDdTkb0XMaT52qST2nI8clAs56kRf_vz3gPBUQ-KjDYXuXs7j1y-C3ZgrAKJp-sOY3YLS3BHe74-QpGbNW4LUItfimiMuKoiNTYumqz-OAfsA2fT3IuGsSh8x_Wht=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/mK5wCA6xhifnOpvBlzJLeM2TqdOhdyKvyNrzlFgiWpUve5Ze8nrOy1_q3VPMcwdTmoSeX0pmxJ8AUHDgOvZOaXn2tKrQ8Qx_7DoqCCs2BWEh-5bQEo-pqOUwHgK7z8-C9qf05n6G=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/AQ1Pw8XGgseEt_TKT24_HYAaZnlv6mlW3e9_LyndgTNvqVFawL7nF1SfWYEw_Xoh1PsTiWZIO39HO9F3nA_obrt8Wmplc7F6C6xIMxKicHFFH5MlN1vMFDoOf2AiJbbJZV7nN6cl=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/YwcR576rTpPSDwTxFcslzHJNmciHquvBhF-2GqpxCqCHtvZwOomc3zi-PlpTM4QUvj7-xDT-hzJCaYalTX0JWm_HfY0sVfnBHHWh3U2SodSz45L2HsZexJEJIBwkWp-LvMpPadxK=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/ttOcVF_CeLs5gMtAwmtNX2EJopQD-qEjonXDblZVNl_caLrTbExogg9iGlAcgZ6cSC3fAvN2GaXRoIZhQhAqpUW3LLqIXlzxkefsct9vyXWLrWRY1pX2K7Z1QzR3FRxc0G2hMrKp=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/7bOdAUPJmEEtTUpyvuO5WVdua-IjdHu9JmMECvM0h4ifrEh_Pl9SRt-GJcbPfHga7xYyGJG0BorCCK2iLYsFRpCzUVdDAEV1xuLPYESRkw7V7AsJNdObv1A6w8Bsso5b10ALd5b0=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/joVkqncmGIJ_1b67I5U8cVeHONaGKHSEpY17vJ0_qzp-ka7JjljIDAm0iPbj4D2hVaeyz07glCGsxgnpNfer95IJd5nPgRdA_zhZWgITgzbqoj-sLHLvjBK3i9799abxQjcjSIET=w1920-h1080" src="" alt="" />
+</div>
+
+      
+      
+          <!-- Slider Dots -->
+          <div class="main_slider_nav_left main_slider_nav"> <i class="fas fa-chevron-left trans_300"></i>
+          </div>
+          <div class="main_slider_nav_right main_slider_nav"> <i class="fas fa-chevron-right trans_300"></i>
+          </div>
+        </div>
+      </div>
+      <div class="home_social_container d-flex flex-row justify-content-end align-items-center">
+        <ul class="home_social">
+          <li><a href="https://www.facebook.com/NAUsigmanu" target="_blank"><i class="fab fa-facebook-f trans_300"></i></a><br>
+          </li>
+          <li><a href="http://www.instagram.com/nausigmanu" target="_blank"><i class="fab fa-instagram trans_300"></i></a><br>
+          </li>
+        </ul>
+      </div>
+            
+      <!-- Footer -->
+      <footer class="footer">
+        <div class="container">
+          <div class="row footer_content d-flex flex-sm-row flex-column align-items-center">
+            <div class="col-sm-6 text-sm-right text-center">
+              <div class="footer_social_container">
+                <ul class="footer_social">
+                  <li><a href="http://www.facebook.com/NAUsigmanu" target="_blank"><i class="fab fa-facebook-f trans_300"></i></a><br>
+                  </li>
+                  <li><a href="http://www.instagram.com/nausigmanu" target="_blank"><i class="fab fa-instagram trans_300"></i></a><br>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="styles/bootstrap4/popper.js"></script>
+    <script src="styles/bootstrap4/bootstrap.min.js"></script>
+    <script src="plugins/greensock/TweenMax.min.js"></script>
+    <script src="plugins/greensock/TimelineMax.min.js"></script>
+    <script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+    <script src="plugins/greensock/animation.gsap.min.js"></script>
+    <script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+    <script src="plugins/progressbar/progressbar.min.js"></script>
+    <script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+    <script src="plugins/easing/easing.js"></script>
+    <script src="js/custom.js"></script>
+  </body>
+</html>
