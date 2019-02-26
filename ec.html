@@ -24,6 +24,9 @@
   gtag('js', new Date());
   gtag('config', 'UA-125570038-1');
 </script>
+	
+	
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>
 	
@@ -138,6 +141,11 @@
 									<textarea id="contact_form_message" class="text_field contact_form_message" name="message"  placeholder="Message" rows="4" required data-error="Please, write us a message."></textarea>
 									
 								</div>
+								<form action="?" method="POST">
+      									<div class="g-recaptcha" data-sitekey="6Lfc7JMUAAAAAJRSoFspzMHlGFLS7z8laPOLWsAl"></div>
+      									<br/>
+      									<input type="submit" value="Submit">
+   								</form>
 								<div>
 									<button id="contact_form_submit" target="_blank" type="submit" class="contact_submit_btn trans_300" value="Submit">
 										send<img src="images/arrow_right.svg" alt="">
