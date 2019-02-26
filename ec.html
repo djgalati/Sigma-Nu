@@ -30,8 +30,7 @@
 
 <script type="text/javascript">
 function recaptcha_callback(){
-alert("callback working");
-$('#contact_form_submit').prop("disabled", false);
+$('#contact_form_submit').removeAttr('disabled');
 }
 </script>
 	
@@ -162,7 +161,7 @@ setInterval(timestamp, 500);
 									<input id="contact_form_subject" class="input_field contact_form_subject" type="text" name="subject" placeholder="Subject" required="required" data-error="Subject is required.">
 									<textarea id="contact_form_message" class="text_field contact_form_message" name="message"  placeholder="Message" rows="4" required data-error="Please, write us a message."></textarea>
 									
-      									<div class="g-recaptcha" data-sitekey="6Lfc7JMUAAAAAJRSoFspzMHlGFLS7z8laPOLWsAl" data-callback="recaptcha_callback"></div>
+      									<div class="g-recaptcha" data-sitekey="6Lfc7JMUAAAAAJRSoFspzMHlGFLS7z8laPOLWsAl" data-callback="recaptcha_callback" id="verify"></div>
       									<br/>
       									<button id="contact_form_submit" target="_blank" type="submit" class="contact_submit_btn trans_300" value="Submit" disabled="true">
 										send<img src="images/arrow_right.svg" alt="">
